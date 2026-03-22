@@ -6,7 +6,7 @@ This repository serves as proof of my qualification in the Graduate Aptitude Tes
 - **Exam**: GATE 2026  
 - **Status**: Qualified  
 - **Marks**: XX  
-- **All India Rank (AIR)**: XXXX  
+- **All India Rank (AIR)**: 4226  
 
 ## 📄 Scorecard
 The official GATE 2026 scorecard is included in this repository.
